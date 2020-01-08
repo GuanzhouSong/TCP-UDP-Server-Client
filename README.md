@@ -5,7 +5,7 @@ Commands for Client:
 1. message (user) (message)
 2. broadcast (message)
 3. whoelse
-4. whoelsesince (time) (who has logged in since past <time> seconds)
+4. whoelsesince (time) (who has logged in since past [time] seconds)
 5. block (user)
 6. unblock (user)
 7. logout
