@@ -17,3 +17,9 @@ Commands for P2P messaging:
   
 Note:
 - Bugs do exist for p2p messaging. If multiple peers message the same individual, message status is not reflected for both parties.
+- This is not meant to be 100% bug free and perfect. This project is just out of interest and extending concepts and work from a university course.
+- Please do not copy and paste into your ASSIGNMENTS or any other academic work.
+- Feel free to do anything else with it :).
+
+Extension:
+- Implmenting a Gui through JavaFX.
